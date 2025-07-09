@@ -1,0 +1,2 @@
+# -Password-Strength-Tester-with-Alert-Indicator-Suggested-Use-Case-
+In today’s digital age, passwords are the first line of defense for securing online accounts. However, many users still create weak or reused passwords, making their accounts vulnerable to cyberattacks such as brute-force, dictionary, or credential stuffing attacks.  To address this issue, this project presents a real-time password
